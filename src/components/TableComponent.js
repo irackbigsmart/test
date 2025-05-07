@@ -1,3 +1,9 @@
+/**
+ * Table component for displaying and managing data in a tabular format
+ * Handles data presentation, sorting, and row selection
+ * Provides interactive features for data manipulation
+ */
+
 import React from 'react';
 import { useTable } from '../hooks/useTable';
 import ModalDetailsComponent from './ModalDetailsComponent';

@@ -1,3 +1,9 @@
+/**
+ * Modal component that displays detailed information
+ * Handles the display and interaction of detailed data in a modal format
+ * Manages visibility state and data presentation
+ */
+
 import React from 'react';
 import { useScanner } from '../context/ScannerContext';
 

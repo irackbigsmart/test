@@ -1,3 +1,9 @@
+/**
+ * Context provider for scanner functionality
+ * Manages global scanner state and operations
+ * Provides scanning methods and data management across components
+ */
+
 import React, { createContext, useCallback, useContext, useState } from 'react';
 import { dummyData } from '../mock/dummyData';
 

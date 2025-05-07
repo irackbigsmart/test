@@ -1,3 +1,9 @@
+/**
+ * Scanner component for handling barcode/QR code scanning
+ * Provides input interface and scanning functionality
+ * Manages scanning process and user interaction
+ */
+
 import React from 'react';
 import { useScannerInput } from '../hooks/useScannerInput';
 

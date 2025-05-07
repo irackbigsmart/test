@@ -1,3 +1,9 @@
+/**
+ * Custom hook that manages scanner input functionality
+ * Handles input validation, scanning process and loading states
+ * Provides methods for input change, key press events and scanning
+ */
+
 import { useState } from 'react';
 import { useScanner } from '../context/ScannerContext';
 

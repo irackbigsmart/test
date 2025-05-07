@@ -1,3 +1,9 @@
+/**
+ * Custom hook for table functionality
+ * Manages table data, selection state and sorting
+ * Provides methods for table operations and data manipulation
+ */
+
 import { useState } from 'react';
 import { useScanner } from '../context/ScannerContext';
 
